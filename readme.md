@@ -5,6 +5,13 @@ Many things have been thrown out in order to make it easier to work with (for ex
 
 The rest is mostly copy paste.
 
+Notes
+=====
+Please note that this code seems to perform very poorly and that there is a request with demandware to provide a native implementation.
+If you plane to use this make sure to also vote for the idea on [xchange](https://xchange.demandware.com/ideas/1849)
+
+Pull requests are welcome! :)
+
 Usage Sample
 =========
 ```
